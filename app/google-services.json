@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12653527982",
+    "project_id": "vlad03",
+    "storage_bucket": "vlad03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12653527982:android:de3bea9f9797809cb6be3f",
+        "android_client_info": {
+          "package_name": "com.example.energycompass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-c3WqbslnZzpuHfnYmQkb9_JbZHk53E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
